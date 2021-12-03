@@ -10,7 +10,7 @@ E preencher meus dados válidos
 Quando clico no botão de login
 Entao recebo um direcionamento para a página de usuário logado  
 
-Cenario: Login com senha incorreta
+Cenario: Login com login ou senha incorretos
 Dado que quando possuo uma conta no sistema
 E ao iniciar um acesso na página de Login, preenchendo os campos incorretamente
 Quando clico no botão de login
